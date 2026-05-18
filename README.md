@@ -19,13 +19,43 @@ Welcome to my GitHub profile! I'm passionate about leveraging technology to solv
 - Java
 - Python
 - SQL
+- Dart
 
 **Specializations:**
 - Data Science & Analytics
-- Artificial Intelligence
-- Machine Learning & Recommendation Systems
+- Artificial Intelligence & Machine Learning
+- Recommendation Systems
+- Computer Vision & Deep Learning
 - Database Management
 - Process Automation
+
+## Featured Projects
+
+### AI & Machine Learning
+- [Hybrid Movie Recommendation System](https://github.com/FekyBaz/hybrid-movie-recommender) - Content-based + collaborative filtering with TF-IDF, SVD, and Streamlit UI
+- [CIFAR-10 CNN Classification](https://github.com/FekyBaz/CIFAR10-CNN-Classification) - Image classification using Convolutional Neural Networks
+- [Motion-Aware Smart Surveillance System](https://github.com/FekyBaz/Motion-Aware-Smart-Surveillance-System) - Intelligent surveillance with motion detection
+- [SVM Final Project](https://github.com/FekyBaz/svm-final-project) - Support Vector Machine implementation
+- [Face Recognition](https://github.com/FekyBaz/Face-Recognition) - Facial recognition system
+- [Linear Regression Analysis](https://github.com/FekyBaz/Linear-Regression-Analysis-Project) - Statistical analysis with linear regression
+- [Dimensionality Reduction for Multi-Class LDA](https://github.com/FekyBaz/Application-of-Dimensionality-Reduction-for-Multi-Class-LDA) - Linear Discriminant Analysis
+- [Assignment 2 DST](https://github.com/FekyBaz/Assignment-2-DST) - Decision Tree and data science techniques
+- [ML Assignment](https://github.com/FekyBaz/ML-Assignment) - Machine learning fundamentals
+
+### Web & Network Applications
+- [Email Client Application](https://github.com/FekyBaz/Email-Client-Application) - Computer Network Project
+- [Multi-Client String Processing Server](https://github.com/FekyBaz/Multi-Client-String-Processing-Server) - Network server with client handling
+
+### Algorithms & Data Structures
+- [Sudoku Solver with CSP](https://github.com/FekyBaz/Sudoku-Solver-with-CSP-Implementation) - Constraint Satisfaction Problem implementation
+- [Sequential Stack Applications](https://github.com/FekyBaz/Sequential-Stack-Applications) - Data structures in Java
+- [Assignment 2 Data Structures](https://github.com/FekyBaz/Assignment-2-Data-Structures) - Java data structures
+- [VRP - Vehicle Routing Problem](https://github.com/FekyBaz/VRP) - Smart System Project
+
+### Full-Stack & Systems
+- [Train Ticketing System](https://github.com/FekyBaz/Train-Ticketing-System) - Java-based ticketing application
+- [supreme-lamp](https://github.com/FekyBaz/supreme-lamp) - IoT/smart project
+- [Python Learning Guide](https://github.com/FekyBaz/Python-Learning-Guide) - Python tutorials and resources
 
 ## Find Me Online
 
